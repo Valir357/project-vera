@@ -7,7 +7,6 @@ A solo, purely ambitious project; aiming for self-betterment, escape from immine
 
 >	Navigations
  >About me: [[Developer\|Developer]]
- >About [[Vera\|Vera]]
  >My Twitch channel: https://www.twitch.tv/enverlopa
  >My Discord server: https://discord.gg/cwmV2QRXvF (permanent link)
 
