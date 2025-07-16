@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vera/"}
 ---
 
-## What is it?
+ ## What is it?
 This is a personal project of creating another great VTuber, after witnessing Vedal's success.
 Summer 2025, I discovered the green turtle in one of the doomscroll session. At first, I gave it no thought, since "AI" and "VTuber" weren't in my best interests.
 
@@ -12,9 +12,9 @@ And so, my summer plan changed from slugging to making a leap - and a leap I wil
 
 And to be completely real with those who read this, at the point of typing this, the very thought of quitting already made my heart ache; meaning, this is my final decision for a career.
 ## What is "Vera"?
-She's a persona I crafted on CharacterAI - one of the many platforms that further fueled my ambitions and obsession with AI in general, after DungeonAI and TavernAI. And I understand that you can't just whip up a character, make an AI for it and call it an AI VTuber. No.
-It takes writing, planning, too.
-Neuro and Evil blew up because of their sibling and sus dynamic, which is, as we all know and agree, funny and cute to watch, and sometimes even deep. Speaking about deep, Neuro and Evil had, on multiple occasions, engaged in real talks with Vedal; which are what make them feel so grounded and human.
+She's a persona I crafted on CharacterAI - one of the many platforms that further fueled my ambitions and obsession with AI in general, after DungeonAI and TavernAI. And I understand that you can't just whip up a name, make an AI for it and call it an AI VTuber. No.
+It takes writing, planning, a clear vision.
+Neuro and Evil blew up because of their sibling and sus dynamic, which is, as we all know and agree, funny and cute to watch, and sometimes even deep. Speaking about deep, Neuro and Evil had, on multiple occasions, engaged in real talks with Vedal; which are what make them feel so grounded and "human".
 
 ## The plan
 Based on what I just said, let's look at the majority of viewers:
