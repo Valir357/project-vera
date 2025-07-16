@@ -11,3 +11,7 @@ As of July 13th, 2025 (GMT-6), I have successfully whipped up two bots, a Twitch
 Above are the original statuses of each bot at the point of making.
 
 >	Things will change.
+
+List:
+- [[2025-07-13\|2025-07-13]]
+- [[2025-07-17\|2025-07-17]]
