@@ -43,7 +43,12 @@ Sunday, June 13th, 2025. I am Valir. I declare that I shall walk the path that m
 
 Until we meet on the million screens, Vedal, know that I am somewhere out there, behind you on the path; but always moving towards you, until I can stand before you and declare "I did it, and this... is [[Vera\|Vera]]."
 
-This is [[Project Vera\|Project Vera]]. And welcome to my journey, stranger.
 I do not for the praises nor wealth. I do because my soul, ambition, and fate says so.
 I am weak, but I will be strong.
 For Vera is my cause, and duty.
+This is Project Vera. And welcome to my journey, stranger.
+
+
+
+
+wow you actually read allat
