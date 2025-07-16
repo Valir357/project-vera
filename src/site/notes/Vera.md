@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/vera/"}
 ---
 
-
-# What is it?
+## What is it?
 This is a personal project of creating another great VTuber, after witnessing Vedal's success.
 Summer 2025, I discovered the green turtle in one of the doomscroll session. At first, I gave it no thought, since "AI" and "VTuber" weren't in my best interests.
 
@@ -22,7 +21,7 @@ Based on what I just said, let's look at the majority of viewers:
 - They like bold streamers and comments, but not controversial
 	- Neuro is what one would define as an "ethical" AI, the sources from which the datasets used to train/fine-tune her are sourced from "ethical" and public sources, as far as I know, topped with Vedal's own fashion and personal struggles.
 	- The twin is funny, and more often than sometimes sus. But it is not out of the boundary that people call SFW or satire. That, in my honest opinion, is what sets them far and wide apart from Kai (terrible comparison, I know)
-- They see VTubers as an escape from reality (well, obviously)
+- They see VTubers as an escape from reality (well, obviously); and love the chaotic chats, Hololive big shots are the example.
 - They all say "They want to see the hero fall", which is... not an untrue notion, but more than that, they want to witness the progress; whether it is the rise or collapse of something big.
 - Some (not all) struggles with mental and motivation issues; which I understand all too well.
 - We all like sweet words, comforting and coaxing us towards something.
