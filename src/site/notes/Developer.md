@@ -8,7 +8,7 @@ Name: Valir Evr Valdor
 Place of birth/Hometown: Texas, USA
 >Later moved to Vietnam, at the age of 4
 
-Birthdate: Jan 31st, 2009
+Birthdate: Jan 31st
 
 Rookie AI coder.
 
