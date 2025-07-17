@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vera/"}
 ---
 
- ## What is it?
+# What is it?
 This is a personal project of creating another great VTuber, after witnessing Vedal's success.
 Summer 2025, I discovered the green turtle in one of the doomscroll session. At first, I gave it no thought, since "AI" and "VTuber" weren't in my best interests.
 

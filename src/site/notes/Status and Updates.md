@@ -13,5 +13,5 @@ Above are the original statuses of each bot at the point of making.
 >	Things will change.
 
 List:
-- [[2025-07-13\|2025-07-13]]
-- [[2025-07-17\|2025-07-17]]
+- [[Project Vera/2025-07-13\|2025-07-13]]
+- [[Project Vera/2025-07-17\|2025-07-17]]

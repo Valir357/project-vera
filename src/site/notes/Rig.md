@@ -18,4 +18,4 @@ For the dataset storage, they are stored in two 1TB HDDs, connected via an Orico
 The scripts are stored in the main drive and properly backed up.
 
 And yes, with this rig, the realization that even QLoRA fine-tuning is not possible sets in very early into my journey - might have been on the 2nd day.
-That is why I collected the datasets and refined them for the future.
+That is why I collected the datasets and refined them for future fine-tuning, when I have the adequate hardwares.
