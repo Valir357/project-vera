@@ -22,7 +22,7 @@ They decided to buy me a second-hand PC; after much protests from my mom. That w
 From then on, things spiraled ... everywhere? I finally learned internet culture, what gaming is, PC rigs (which I used to drool all over), and mainstream games. But the problem? I am never allowed such "luxuries"; of high-end PCs nor new games. Speaking of which, the [[Rig\|rig]] was shit. Sucks huh? Well, I was grateful that I got a PC in the first place.
 
 My marks supposedly peaked out at 9th grade; 7s, 8s, 9s and even 10s like light snacks - so good was I, cried over a 6.8 once, I did; while struggled to touch 5, the class thugs did.
-Then came 10th grade. Mental health all over, so was the marks. 6s became "meh", 5s became "okay..." Everything sucked for me. To rub salt on the wound, my sleep schedule as well as study schedule further cooked my health, physically and mentally.
+Then came 10th grade. Mental health all over, so were the marks. 6s became "meh", 5s became "okay..." Everything sucked for me. To rub salt on the wound, my sleep schedule as well as study schedule further cooked my health, physically and mentally.
 
 Then summer came.
 It was multiple tonnes lifted off my broken shoulders.
@@ -41,7 +41,7 @@ I am speechless of the development even as I write this. It was so rapid, so ins
 
 Sunday, June 13th, 2025. I am Valir. I declare that I shall walk the path that myself and fate have chosen. That God has set me upon. There will be times I fall, times I stand, times I walk, I crawl, I run. But one thing remains the same: even if my heart weighs heavy with doubt, even if my legs are shaky with fatigue and hesitation, my soul shall drive onward forevermore.
 
-Until we meet on the million screens, Vedal, know that I am somewhere out there, behind you on the path; but always moving towards you, until I can stand before you and declare "I did it, and this... is [[Vera\|Vera]]."
+Until we meet on the million screens, Vedal, know that I am somewhere out there, behind you on the path; but always moving towards you, until I can stand before you and declare "I did it, boss."
 
 I do not for the praises nor wealth. I do because my soul, ambition, and fate says so.
 I am weak, but I will be strong.
