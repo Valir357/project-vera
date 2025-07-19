@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/datasets/"}
 ---
 
-
 The datasets are "harvested" and/or downloaded from online sources, namely:
 - [Twitch](https://www.twitch.tv/)
 - [GitHub](https://github.com/)
