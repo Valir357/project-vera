@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/no-1/"}
 ---
 
-
 The first [[Incidents\|Incidents]] occurred when logging data from an English-Chinese streamer (forgot the name and lost the link as well).
 The details is as such:
 
