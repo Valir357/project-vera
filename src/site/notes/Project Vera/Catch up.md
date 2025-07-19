@@ -9,7 +9,7 @@ Vera is able to read Twitch chat and reply to it via the terminal, not in the ch
 STT, TTS and STM are yet to be included.
 I am still figuring out RAG and LLM, stay tuned.
 ### Discord
-This was a mini, side-project I embarked myself upon, lasting 2 weeks and bore acceptable fruits. It was the same as Twitch, but Vera's able to actually reply into the room, not just to the terminal. STM is successfully utilized, with the limit set at 15 msgs per person, persists across restarts. This will make the ground work for its inclusion in the Twitch bot.
+This was a mini, side-project I embarked myself on, lasting 2 weeks and bore acceptable fruits. It was the same as Twitch, but Vera's able to actually reply into the room, not just to the terminal. STM is successfully utilized, with the limit set at 15 msgs per person, persists across restarts. This will make the ground work for its inclusion in the Twitch bot.
 LTM and RAG are yet to be figured out.
 The side-project had concluded about last week, from the point of writing this.
 
