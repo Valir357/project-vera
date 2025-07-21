@@ -13,5 +13,5 @@
 
 >	More:
  >[[Datasets\|Datasets]]
- >[[Incidents\|Incidents]]
+ >[[Incidents & Bugs\|Incidents & Bugs]]
  >[[Rig\|Rig]]
