@@ -15,3 +15,4 @@ List:
 - [[Project Vera/Catch up\|Catch up]]
 - [[Project Vera/2025-07-17\|2025-07-17]]
 - [[Project Vera/2025-07-19\|2025-07-19]]
+- [[Project Vera/2025-07-22\|2025-07-22]]
