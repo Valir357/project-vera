@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bugs-n-stuff/no-1/"}
 ---
 
-The first [[Incidents & Bugs\|Incidents & Bugs]] occurred when logging data from an English-Chinese streamer (forgot the name and lost the link as well).
+The first [[Main/Incidents & Bugs\|Incidents & Bugs]] occurred when logging data from an English-Chinese streamer (forgot the name and lost the link as well).
 The details is as such:
 
 "Hey guys, wanna help shape an ai?"
