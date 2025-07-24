@@ -12,6 +12,5 @@
  >My Discord server: https://discord.gg/cwmV2QRXvF (permanent link)
 
 >	More:
- >[[Main/Datasets\|Datasets]]
  >[[Main/Incidents & Bugs\|Incidents & Bugs]]
  >[[Main/Rig\|Rig]]
