@@ -12,7 +12,9 @@ Above are the original statuses of each bot at the point of making.
 >	Things will change.
 
 List:
-- [[Project Vera/Catch up\|Catch up]]
-- [[Project Vera/2025-07-17\|2025-07-17]]
-- [[Project Vera/2025-07-19\|2025-07-19]]
-- [[Project Vera/2025-07-22\|2025-07-22]]
+- [[upd and jrnl/Catch up\|Catch up]]
+- [[upd and jrnl/2025-07-17\|2025-07-17]]
+- [[upd and jrnl/2025-07-19\|2025-07-19]]
+- [[upd and jrnl/2025-07-22\|2025-07-22]]
+- [[upd and jrnl/2025-07-23\|2025-07-23]]
+- [[upd and jrnl/2025-07-24\|2025-07-24]]
