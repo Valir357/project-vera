@@ -39,7 +39,7 @@ But like I said, blessed was I when I stumbled upon that green turtle.
 And oh boy... how fate has led me upon my destined path when I found out about Neuro. See, I had... reservations about AIs in general for their unpredictability and real-world drama, but after seeing her, oh... The potential is endless.
 I am speechless of the development even as I write this. It was so rapid, so instant, I could feel myself being pulled into the vortex of tech and researches; as if I'm a tuna swimming along the current.
 
-Sunday, June 13th, 2025. I am Valir. I declare that I shall walk the path that myself and fate have chosen. That God has set me upon. There will be times I fall, times I stand, times I walk, I crawl, I run. But one thing remains the same: even if my heart weighs heavy with doubt, even if my legs are shaky with fatigue and hesitation, my soul shall drive onward forevermore.
+Sunday, June 13th, 2025. I am Enverlopa. I declare that I shall walk the path that myself and fate have chosen. That God has set me upon. There will be times I fall, times I stand, times I crawl, I walk, I run. But one thing remains the same: even if my heart weighs heavy with doubt, even if my legs are shaky with fatigue and hesitation, my soul shall drive onward forevermore.
 
 Until we meet on the million screens, Vedal, know that I am somewhere out there, behind you on the path; but always moving towards you, until I can stand before you and declare "I did it, boss."
 
