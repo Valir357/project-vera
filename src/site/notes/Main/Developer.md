@@ -10,7 +10,7 @@ Place of birth/Hometown: Texas, USA
 
 Birthdate: Jan 31st
 
-Rookie AI coder.
+Self-Taught AI Programmer, To-Be VTuber.
 
 Raised in a white-collar worker house, much expectations were put upon my shoulders since young. The only problem along the way was language. I struggled to keep up in Literature classes due to my brain not wired to process Vietnamese (which was also what occurred to my sister, but even worse). Of course, I eventually prevailed.
 
