@@ -26,3 +26,5 @@ Above are the original statuses of each bot ***at the point of writing this***.
 - [[upd and jrnl/2025-07-24\|2025-07-24]]
 	
 - [[upd and jrnl/2025-07-31\|2025-07-31]]
+	
+- [[upd and jrnl/2025-08-01\|2025-08-01]]
