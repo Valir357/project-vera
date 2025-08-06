@@ -9,10 +9,10 @@ As of July 13th, 2025 (GMT-6), I have successfully whipped up two bots, a Twitch
 
 Above are the original statuses of each bot ***at the point of writing this***.
 
->	Things will change.
+>Things will change.
 
 ---
-## List:
+## Timeline:
 - [[upd and jrnl/Catch up\|Catch up]]
 	
 - [[upd and jrnl/2025-07-17\|2025-07-17]]
@@ -28,3 +28,5 @@ Above are the original statuses of each bot ***at the point of writing this***.
 - [[upd and jrnl/2025-07-31\|2025-07-31]]
 	
 - [[upd and jrnl/2025-08-01\|2025-08-01]]
+	
+- [[upd and jrnl/2025-08-06\|2025-08-06]]

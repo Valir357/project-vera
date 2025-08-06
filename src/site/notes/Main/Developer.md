@@ -12,6 +12,8 @@ Birthdate: Jan 31st
 
 Self-Taught AI Programmer, To-Be VTuber.
 
+---
+
 Raised in a white-collar worker house, much expectations were put upon my shoulders since young. The only problem along the way was language. I struggled to keep up in Literature classes due to my brain not wired to process Vietnamese (which was also what occurred to my sister, but even worse). Of course, I eventually prevailed.
 
 About a year after my birth, dad contracted type 2 diabetes. Worse, when I finished elementary, dad suddenly wanted to ditch the stable income to pursue his own career - which is literal shit down the line as his health degraded. Furthermore, there's a chance my younger and dumb sis can also develop diabetes due to genetics.
