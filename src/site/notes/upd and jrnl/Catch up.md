@@ -3,7 +3,7 @@
 ---
 
 # Dear code,
-As of now, there are two platforms that Vera is present in: [Twitch](https://www.twitch.tv/), and [Discord](https://discord.com/) - both are in form of chatbots
+As of ~end of June, there are two platforms that Vera is present in: [Twitch](https://www.twitch.tv/), and [Discord](https://discord.com/) - both are in form of chatbots
 ### Twitch
 Vera is able to read Twitch chat and reply to it via the terminal, not in the chat room. It consists of 120 lines of code - clean, FDA-approved. The has a built-in prompt system to tweak its personality and reply style at will.
 STT, TTS and STM are yet to be included.
@@ -13,6 +13,8 @@ This was a mini, side-project I embarked myself on, lasting 2 weeks and bore acc
 LTM and RAG are yet to be figured out.
 The side-project had concluded about last week, from the point of writing this.
 
+---
+---
 ### About me
 It has been about 11 weeks into my journey. My health has improved a ton since starting.
 
