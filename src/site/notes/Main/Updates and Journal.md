@@ -12,7 +12,9 @@ Above are the original statuses of each bot ***at the point of writing this***.
 >Things will change.
 
 ---
-## Timeline:
+## Timeline
+- year-month-date
+	
 - [[upd and jrnl/Catch up\|Catch up]]
 	
 - [[upd and jrnl/2025-07-17\|2025-07-17]]

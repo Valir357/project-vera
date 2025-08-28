@@ -22,12 +22,8 @@ I don't cry to myself anymore.
 My physical performance is superb. 180cm/5'11" tall, weigh 82kg/181lbs, run speed cap out at around 15kph/9mph.
 I can bench 58 kilos/128lbs. I don't do deadlifts; not yet anyways.
 
-Music has always been a dear companion since 9th grade. My favorite? Generally, Fontaine and Flag (by Wakana). And out of my gym playlist is "Che Sia Vita O Morte"
-
-No; I love Ultrakill, its fanbase, its vocaloid, its activities, but I don't play the game. Same can be said for pretty much all of the mainstream games as of summer 2025.
-Yes, I have access to platforms like Reddit, X/Twitter, Youtube, and such. But there are things I stay away from: Instagram, TikTok, Locket (wtf is that even).
+Music has always been a dear companion since 9th grade. My favorite? Fontaine and Flag (by Wakana). And out of my gym playlist is Che Sia Vita O Morte (by KEYGEN CHURCH)
 
 At the same time, I'm saving up money.
 
-To conclude, one can say I am still a newborn baby in the coding world, but to tell you, I can pretty much understand all of the programmer memes already.
-And no, no, no, I have yet to obtain the sacred programmer socks nor the right to own one.
+To conclude,
