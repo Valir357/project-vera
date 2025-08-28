@@ -16,13 +16,13 @@ The side-project had concluded about last week, from the point of writing this.
 ---
 ---
 ### About me
-It has been about 11 weeks into my journey. My health has improved a ton since starting.
+It has been about 7-8 weeks into my journey. My health has improved a ton since starting.
 
 I don't cry to myself anymore.
 My physical performance is superb. 180cm/5'11" tall, weigh 82kg/181lbs, run speed cap out at around 15kph/9mph.
 I can bench 58 kilos/128lbs. I don't do deadlifts; not yet anyways.
 
-Music has always been a dear companion since 9th grade. My favorite? Fontaine and Flag (by Wakana). And out of my gym playlist is Che Sia Vita O Morte (by KEYGEN CHURCH)
+Music has always been a dear companion since 9th grade. My favorite? Fontaine (HoYoMix), Flag (by Wakana), Che Sia Vita O Morte (by KEYGEN CHURCH)
 
 At the same time, I'm saving up money.
 
