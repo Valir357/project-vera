@@ -6,8 +6,8 @@
 As of ~end of June, there are two platforms that Vera is present in: [Twitch](https://www.twitch.tv/), and [Discord](https://discord.com/) - both are in form of chatbots
 ### Twitch
 Vera is able to read Twitch chat and reply to it via the terminal, not in the chat room. It consists of 120 lines of code - clean, FDA-approved. The has a built-in prompt system to tweak its personality and reply style at will.
-STT, TTS and STM are yet to be included.
-I am still figuring out RAG and LLM, stay tuned.
+STT, TTS and memory functions are yet to be included.
+I am still figuring out RAG and autonomous capabilities, stay tuned.
 ### Discord
 This was a mini, side-project I embarked myself on, lasting 2 weeks and bore acceptable fruits. It was the same as Twitch, but Vera's able to actually reply into the room, not just to the terminal. STM is successfully utilized, with the limit set at ~15 msgs per person, persists across restarts. This will make the ground work for its inclusion in the Twitch bot.
 LTM and RAG are yet to be figured out.
