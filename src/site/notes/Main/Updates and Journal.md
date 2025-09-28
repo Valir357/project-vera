@@ -13,22 +13,8 @@ Above are the original statuses of each bot ***at the point of writing this***.
 
 ---
 ## Timeline
-- year-month-date
-	
 - [[upd and jrnl/Catch up\|Catch up]]
 	
-- [[upd and jrnl/2025-07-17\|2025-07-17]]
+- [[Main/Pre-run summer\|Pre-run summer]]
 	
-- [[upd and jrnl/2025-07-19\|2025-07-19]]
-	
-- [[upd and jrnl/2025-07-22\|2025-07-22]]
-	
-- [[upd and jrnl/2025-07-23\|2025-07-23]]
-	
-- [[upd and jrnl/2025-07-24\|2025-07-24]]
-	
-- [[upd and jrnl/2025-07-31\|2025-07-31]]
-	
-- [[upd and jrnl/2025-08-01\|2025-08-01]]
-	
-- [[upd and jrnl/2025-08-06\|2025-08-06]]
+- [[Main/Year 1\|Year 1]]
