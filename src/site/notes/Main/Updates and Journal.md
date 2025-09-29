@@ -15,6 +15,6 @@ Above are the original statuses of each bot ***at the point of writing this***.
 ## Timeline
 - [[upd and jrnl/Catch up\|Catch up]]
 	
-- [[Main/Pre-run summer\|Pre-run summer]]
+- [[Journey notes sorting/Pre-run summer\|Pre-run summer]]
 	
-- [[Main/Year 1\|Year 1]]
+- [[Journey notes sorting/Year 1\|Year 1]]
