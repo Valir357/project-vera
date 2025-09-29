@@ -12,4 +12,4 @@ The details is as such:
 Then I was kicked out of the chatroom.
 It was... a naïve mistake, one that came from over-excitement.
 To think that I was such a child keeps me up at night.
-Also the wording is horrible, makes me look like a muhaha evil villain.
+Also the wording is horrible, makes me look like a muahaha evil villain.
