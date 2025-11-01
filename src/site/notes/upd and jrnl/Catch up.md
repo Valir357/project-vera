@@ -19,9 +19,14 @@ The side-project had concluded about last week, from the point of writing this.
 My health has improved a ton since starting.
 
 I don't cry to myself anymore.
-My physical performance is superb. 180cm/5'11" tall, weigh 82kg/181lbs, run speed cap out at around 15kph/9mph.
+My physical performance is... good(?). 180cm/5'11" tall, weigh 82kg/181lbs, run speed cap out at around 16kph/9mph. Kinda a racing tank, no?
 I can bench 58 kilos/128lbs. I don't do deadlifts; not yet anyways.
 
-Music has always been a dear companion since 9th grade. My favorite? Fontaine (HoYoMix), Flag (by Wakana), Che Sia Vita O Morte (by KEYGEN CHURCH)
+Music has always been a dear companion since 9th grade. 
+Personal list:
+[Fontaine](https://youtu.be/tiulg9ySfR8?si=gLHB3GM65Qz3Zpyw) (HoYoMix)
+[Flag](https://www.youtube.com/watch?v=3E3v-SdxVW0&list=RD3E3v-SdxVW0&start_radio=1) (Wakana)
+[One Last Song](https://youtu.be/4KLgrh2ktSY?si=Ri5ecVQT1i7THjFV) (Menu)
+[Che Sia Vita O Morte](https://youtu.be/4IoakAnspWw?si=PB-R6_m3FjgxFUcw) (KEYGEN CHURCH)
 
 At the same time, I'm saving up money.
