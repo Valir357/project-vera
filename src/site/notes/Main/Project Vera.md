@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/main/project-vera/","tags":["gardenEntry"]}
 ---
 
-# Welcome, stranger.
+## Welcome, stranger.
 [[Main/Vera\|Vera]] is a solo, purely ambitious project; aiming for self-betterment, escape from imminent depression by giving myself a true purpose/goal, and setting up a future for myself in the process.
 
 >	Navigations
