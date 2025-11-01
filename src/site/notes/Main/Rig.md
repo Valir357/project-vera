@@ -4,7 +4,7 @@
 
 ## **July 2025**
 - MiK Aether case (black)
-- 240GB SATA SSD storage (main)
+- 256GB SATA SSD storage (main)
 - 16GB of DDR3 RAM (2 8GB sticks)
 - Intel i5-4570 CPU (LGA-1500 socket)
 - NVIDIA GTX-1060 (3GB VRAM)
@@ -19,3 +19,11 @@ For boomers, this would be considered a "retro rig", but for me, it is a luxury.
 
 > And yes, with this rig, the realization that even QLoRA fine-tuning is not possible sets in very early into my journey.
    That is why I collected the datasets, refined them, stored and safekept them for future fine-tuning, when I have the adequate hardware.
+
+---
+---
+## **October 2025**
+- 256GB Colorful SSD --> 500GB Crucial SSD
+- Xigmatek 450W PSU (n-m) --> Xigmatek 500W PSU (n-m)
+
+> This is the result of a lesson hard learned.
