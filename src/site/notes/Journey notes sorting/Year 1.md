@@ -11,3 +11,9 @@
 - [[upd and jrnl/2025-09-28\|2025-09-28]] : Week 3
 	
 - [[upd and jrnl/2025-10-31\|2025-10-31]] : Catch up + Week 8
+	
+- [[upd and jrnl/2025-11-9\|2025-11-9]] : Week 9
+	
+- [[upd and jrnl/2025-11-16\|2025-11-16]] : Week 10
+	
+- [[upd and jrnl/2025-07-22\|2025-07-22]] : Week 11
