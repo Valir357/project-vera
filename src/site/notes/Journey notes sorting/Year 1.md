@@ -17,3 +17,5 @@
 - [[upd and jrnl/2025-11-16\|2025-11-16]] : Week 10
 	
 - [[upd and jrnl/2025-11-22\|2025-11-22]] : Week 11
+	
+- [[upd and jrnl/End of Year 1\|End of Year 1]] 
