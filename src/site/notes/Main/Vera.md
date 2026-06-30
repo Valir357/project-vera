@@ -14,18 +14,19 @@ And to be completely real with those who read this, at the point of typing this,
 
 ---
 ## What is "Vera"?
-She's a persona I crafted on CharacterAI - one of the many platforms that further fueled my ambitions and obsession with AI in general, after DungeonAI and TavernAI. And I understand that you can't just whip up a name, make an AI for it and call it an AI VTuber. No.
+She's a persona I crafted on CharacterAI - one of the many platforms that further fueled my ambitions and obsession with AI in general, before DungeonAI and TavernAI. And I understand that you can't just whip up a name, make an AI for it and call it an AI VTuber. No.
 It takes writing, planning, a clear vision.
-Neuro and Evil blew up because of their sus siblings dynamic, which is, as we all know and agree, funny and cute to watch, and sometimes even deep. Speaking about deep, Neuro and Evil had, on multiple occasions, engaged in real talks with Vedal; which ware what made them feel so grounded and "human".
+
+Neuro and Evil blew up because of their siblings dynamic, constantly-growing relationship with their creator, and a clear dynamic. Speaking about deep, Neuro and Evil had, on multiple occasions, engaged in real talks with Vedal; which were what made them feel so grounded and "human"
 
 ---
 ## The plan
 Based on what I just said, let's look at the majority of viewers:
 - They like bold streamers and comments, but not controversial
-	- Neuro is what one would define as an "ethical" AI, the sources from which the datasets used to train/fine-tune her are taken from are "ethical" and public, as far as I know, topped with Vedal's own fashion and personal struggles.
-	- The twin is funny, and more often than sometimes sus. But it is not out of the boundary that people call SFW or satire. That, in my honest opinion, is what sets them far and wide apart from Kai (terrible comparison, I know)
+	- Neuro is what one would define as an "ethical" AI, the sources from which the datasets used to train/fine-tune her are taken from are "ethical" and public, as far as I know, topped with Vedal's edits and personal struggles.
+	- The twin is funny, and more often than not, 'sus'. But it is not out of the boundary which people call SFW or satire. That, in my honest opinion, is what sets them far and wide apart from other figures in the VTube industry
 	
-- They see VTubers as an escape from reality (well, obviously); and love the chaotic chats, Hololive big shots are the example.
+- They see VTubers as an escape from reality (obviously); and love the chaotic chats, Hololive big shots are the example.
 	
 - They all say "They want to see the hero fall", which is... not an untrue notion, but more than that, they want to witness the progress; whether it is the rise or collapse of something big.
 	
