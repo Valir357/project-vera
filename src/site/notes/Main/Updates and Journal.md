@@ -9,8 +9,4 @@ As of July 13th, 2025 (GMT-6), I have successfully whipped up two bots, a Twitch
 
 ---
 ## Timeline
-- [[Catch up\|Catch up]]
-	
-- [[Journey notes sorting/Pre-run summer\|Pre-run summer]]
-	
-- [[Journey notes sorting/Year 1\|Year 1]]
+- [[Year 1\|Year 1]]

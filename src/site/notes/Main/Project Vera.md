@@ -7,7 +7,7 @@
 
 >	Navigations
  >About me: [[Main/Developer\|Developer]]
- >Daily updates and journal: [[Main/Updates and Journal\|Updates and Journal]]
+ >Updates and personal journal: [[Main/Updates and Journal\|Updates and Journal]]
  >My Twitch channel: https://www.twitch.tv/enverlopa
  >My Discord server: https://discord.gg/cwmV2QRXvF (permanent link)
 
