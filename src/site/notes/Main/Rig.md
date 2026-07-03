@@ -30,4 +30,5 @@ For boomers, this would be considered a "retro rig", but for me, it is a luxury.
 ---
 ---
 ## Febuary 2026
+- CPU: Intel i5-4570 → Intel i5-4670K
 - Motherboard: GIGABYTE H81M-DS2 → GIGABYTE B85M-DS3H-A
