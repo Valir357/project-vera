@@ -9,4 +9,4 @@ As of July 13th, 2025 (GMT-6), I have successfully whipped up two bots, a Twitch
 
 ---
 ## Timeline
-- [[Year 1\|Year 1]]
+- [[Journey notes sorting/Main run\|Main run]]

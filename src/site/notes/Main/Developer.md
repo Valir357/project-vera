@@ -33,7 +33,7 @@ I arranged sleep schedules, study cycles, and hit the gym as my schedule dictate
 It was then that I stumbled upon my inspiration, [Vedal](https://www.twitch.tv/vedal987).
 "Interesting." I thought. "They're funny, let's find out more." And from here, I'll let my deeds do the talking.
 
-I did went to a tryout at the local MindX institution, mainly to see if I am really cut out for the codes. It turned out to be one of the most enthusiastic, for me, and drawn-out "tryout" sessions there, or so they told. And at the end of the session, an advice is given: I may not be a natural, mediocre at best; but I have a heart for the codes.
+I did went to a tryout at the local MindX institution, mainly to see if I am really cut out for the codes. It turned out to be one of the most enthusiastic, for me, and drawn-out "tryout" sessions there, or so they told. And at the end of the session, an advice is given: I may not be a natural, but I have a heart for the codes.
 
 I do not for the praises nor wealth. I do because my soul and ambition says so. And because many other souls deserve to know such movements are possible.
 

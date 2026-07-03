@@ -7,6 +7,6 @@ During the data logging and creation process, there obviously are slip-ups, big 
 Also, the updates on bug fixes are in [[Main/Updates and Journal\|Updates and Journal]]
 
 List:
-- [[Bugs n Stuff/No. 1\|No. 1]]
-- [[Bugs n Stuff/No. 2\|No. 2]]
-- [[Bugs n Stuff/No. 3\|No. 3]]
+- [[No. 1\|No. 1]]
+- [[No. 2\|No. 2]]
+- [[No. 3\|No. 3]]
