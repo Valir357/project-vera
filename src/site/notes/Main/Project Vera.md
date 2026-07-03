@@ -10,7 +10,4 @@
  >Updates and personal journal: [[Main/Updates and Journal\|Updates and Journal]]
  >My Twitch channel: https://www.twitch.tv/enverlopa
  >My Discord server: https://discord.gg/cwmV2QRXvF (permanent link)
-
->	More:
- >[[Main/Incidents & Bugs\|Incidents & Bugs]]
- >[[Main/Rig\|Rig]]
+ >My PC: [[Main/Rig\|Rig]]
