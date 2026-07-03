@@ -26,11 +26,11 @@ Based on what I just said, let's look at the majority of viewers:
 	- Neuro is what one would define as an "ethical" AI, the sources from which the datasets used to train/fine-tune her are taken from are "ethical" and public, as far as I know, topped with Vedal's edits and personal struggles.
 	- The twin is funny, and more often than not, sus. But it is not out of the boundary which people call SFW or satire. That, in my honest opinion, is what sets them far and wide apart from other figures in the VTube industry
 	
-- They see VTubers as an escape from reality (obviously); and love the chaotic chats, Hololive big shots are the example.
+- They see VTubers as an escape from reality (obviously); and love the chaotic chats, [Hololive](https://en.wikipedia.org/wiki/Hololive_Production) idols are the example.
 	
 - They all say "They want to see the hero fall", which is... not an untrue notion, but more than that, they want to witness the progress; whether it is the rise or collapse of something big.
 	
-- Some (not all) struggles with mental and motivation issues; which I understand all too well.
+- Recent generations struggle with mental and motivation issues when it comes to doing or starting things they love; which I understand all too well.
 	
 - We all like sweet words, comforting and coaxing us towards something.
 	
