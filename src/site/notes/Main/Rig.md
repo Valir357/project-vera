@@ -8,7 +8,7 @@
 - 16GB of DDR3 RAM (2 8GB sticks)
 - Intel i5-4570 CPU (LGA-1500 socket)
 - NVIDIA GTX-1060 (3GB VRAM)
-- GIGABYTE GA-H81M-DS2 Motherboard
+- GIGABYTE H81M-DS2 Motherboard
 - Xigmatek 450W PSU (non-modular)
 - All of the components were air-cooled; the brands of which were anonymous.
 - For the dataset storage, they are stored in 2 1TB HDDs, connected via an Orico USB-C solo dock.
@@ -22,7 +22,12 @@ For boomers, this would be considered a "retro rig", but for me, it is a luxury.
 ---
 ---
 ## **October 2025**
-- 256GB Colorful SSD --> 512GB Crucial SSD
-- Xigmatek 450W PSU (n-m) --> Xigmatek 500W PSU (n-m)
+- 256GB Colorful SSD → 512GB Crucial SSD
+- Xigmatek 450W PSU (n-m) → Xigmatek 500W PSU (n-m)
 
 > This is the result of a lesson hard learned.
+
+---
+---
+## Febuary 2026
+- Motherboard: GIGABYTE H81M-DS2 → GIGABYTE B85M-DS3H-A

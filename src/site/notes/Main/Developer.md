@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/main/developer/"}
 ---
 
-Name: Valir Evr Valdor
->Called Nguyen by the locals after moving
+Name: N.D "Valdor"
 
-Place of birth/Hometown: Texas, USA
->Later moved to Vietnam, at the age of 4
+Place of birth/Hometown: HCMC, Vietnam
 
 Birthdate: Jan 31st
 
@@ -14,16 +12,17 @@ Self-Taught AI Programmer
 
 ---
 
-Raised in a white-collar worker house, much expectations were put upon my shoulders since young, most of which are... typical of Asian households: study well, stay in line, get a good job, honor the bloodline.
+Raised in a middle-class home, much expectations were put upon my shoulders since young, most of which were... typical of Asian households: study well, stay in line, get a good job, honor the bloodline.
 But what about me?
 
-About a year after my birth, dad contracted type 2 diabetes. Worse, when I finished elementary, dad suddenly ditched the office job to pursue his own career - which became crap down the line as his health degraded. Furthermore, there's a chance my younger and autistic sister can also develop diabetes due to genetics.
-My mother constantly switches companies; marginally due to the unsuitable work environments and physical problems.
+About a year after my birth, dad contracted type 2 diabetes. Worse, when I finished elementary, dad suddenly ditched the office job to pursue his own career - which became crap down the line as his health degraded. Furthermore, there's a chance my younger and intellectually degraded sister can also develop diabetes due to genetics.
+My mother constantly switches companies; marginally due to the unsuitable work environments and bodily issues.
 
 In 8th Grade, they decided to buy me a second-hand PC, though after much protests from my mom.
 From then on, things spiraled. I finally learned internet culture; what real gaming is, PC rigs, and mainstream games. However, I was never allowed such luxuries of high-end PCs nor new games. Speaking of which, the [[Main/Rig\|Rig]] was old. Well, I was grateful that I got a PC in the first place.
 
-At 9th grade, I seemingly peaked in academic performance. Then came 10th grade. Mental health all over, so were the marks. To rub salt on the wound, unscientific schedules (study cramming, messed up sleep schedules, gaming obsessions...) further worsened my overall life.
+At 9th grade, I seemingly peaked in academic performance.
+But came 10th grade. Mental health all over, so were the marks. To rub salt on the wound, unscientific schedules (study cramming, messed up sleep schedules, gaming obsessions...) further worsened my overall life.
 
 Then summer came.
 At first, I spent time gaming my heart out. But after a long period of thinking and procrastinating, I decided that there is no time left to be wasted.
