@@ -19,4 +19,5 @@ And from those ideas, I build. Not *according to* those patterns, but in a direc
 ---
 ## Problem
 
-As mentioned in the first section (or in case you only skimmed), I am... only mediocre at best in coding. I am not born talented. I am not good in step-by-step processes (aka linear thinking). 
+As mentioned in the first section (or in case you only skimmed), I am... only mediocre at best in coding. I am not born talented. I am not good in step-by-step processes (aka linear thinking).
+

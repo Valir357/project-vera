@@ -4,7 +4,7 @@
 
 ##### Let's get it started!
 ### ‎June ‎25, ‎2026
-+ Full memory pipeline: `mem_manager.` → `stm` → `ltm` → `session_vault` → `filter` → `cross_vault`
++ Full memory pipeline: `mem_manager` → `stm` → `ltm` → `session_vault` → `filter` → `cross_vault`
 
 - Built based on the function of a USB hub: 
 	- `mem_manager`: Essentially the "USB hub" that plugs into the "computer" which is the main AI pipeline, `main`. It relies on the `cls` function of the composing `.py` files as the "connectors"
@@ -21,11 +21,12 @@
 
 --- 
 ### June 30, 2026
-
 - Figured out a system to integrate and store memories in `cross_vault`.
 	- Introduce `TopicChecker` class to `filter`. It will be triggered by `ShiftFilter`, which lays inside the same script, to check if the new memory is actually "new", or a duplicate of an already-existing memory inside `cross_vault`. As I write this, I also realized its potential for being a solution to a myriad of context-based problems that might pop up in later stages of testing and use.
+		
 	- As for `cross_vault`, It will function as such:
 		- When triggered by `TopicChecker`, it will recall OR update an already-existing memory inside the storage as per the conditions mentioned above.
+			
 		- Will automatically run when shutting down, pulling all of the entries in `session_vault` to compress and stored into a global file that persist across sessions. This keeps things compact, concise, and manageable; and fits my current hardware.
 
 ---
