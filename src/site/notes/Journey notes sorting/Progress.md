@@ -6,6 +6,7 @@
 ```column-settings  
 number of columns: 2   
 ```
+
 ### Project Progress
 - 🔹[[Journey notes sorting/Code/Read me!\|Read me!]]
 	
@@ -19,6 +20,7 @@ number of columns: 2
 
 
 --- end-column ---
+
 ### Journal
 - 🔹[[Journey notes sorting/Journal/A piece of mind\|A piece of mind]]
 	
