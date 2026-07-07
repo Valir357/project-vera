@@ -41,6 +41,6 @@ Based on what I just said, let's look at the majority of viewers:
 See the outline?
 I'll leave it up to you.
 
----
+--- ---
  
  *Disclaimer: if you struggle with mental issues, it is best to contact your local clinics and professionals, not asking a streamer to cure you. This section is merely an idea for a project that only has a probability of success; therapists are, however, always there, and should be referred to first thing.*
