@@ -15,6 +15,8 @@ number of columns: 2
 - 🔹[[Journey notes sorting/Code/Checkpoint 2\|Checkpoint 2]]
 	
 - 🔹[[Journey notes sorting/Code/Checkpoint 3\|Checkpoint 3]]
+	
+- 🔹[[Journey notes sorting/Code/Checkpoint 4\|Checkpoint 4]]
 
 
 --- end-column ---

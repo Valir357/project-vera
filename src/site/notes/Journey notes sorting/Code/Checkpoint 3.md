@@ -3,7 +3,7 @@
 ---
 
 ### 📅 July 3, 2026
-This day, I flesh out the planned system.
+This day, I fleshed out the planned system.
 - 🔹`class TopicChecker`: Uses a multi-layer scoring system to determine whether or not the new topic detected by `class ShiftFilter` is truly "new", or just referencing something already existed inside `cross_vault`.
 	- 🔸The first layer uses a crude scoring system to get a list of "candidates" to then be passed into the LLM layer.
 	- 🔸The LLM layer (`self.llm()`) acts as the final judge of the "candidates" sent by the previous layer.
