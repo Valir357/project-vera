@@ -8,5 +8,4 @@ July 13th, 2025, I had successfully whipped up two bots, a Twitch chat bot, and 
 - The Discord bot was made at the end of June 2025, as a self-assigned side-project apart from the Twitch chatbot, after reading Vedal's little advice in [his website](https://vedal.ai/advice/) (thank you, Vedal)
 	
 - June 1st, 2026, I started work on a complete recode, using what I learned to more concretely and completely flesh out the vague vision I had back then.
-
-Catch up with my ---> [[Journey notes sorting/Progress\|Progress]] <---
+##### Catch up with my progress [[Journey notes sorting/Progress\|here]]
