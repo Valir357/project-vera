@@ -3,26 +3,27 @@
 ---
 
 
+<div class="two-columns">
+<div>
 
-
-```columns
-id: xfTk4QPF-Uu0lFHhWajUp
-===
 ### Project Progress
-- 🔹[[Read me!]]
+- 🔹[[Journey notes sorting/Code/Read me!\|Read me!]]
 	
-- 🔹[[Checkpoint 1]]
+- 🔹[[Journey notes sorting/Code/Checkpoint 1\|Checkpoint 1]]
 	
-- 🔹[[Checkpoint 2]]
+- 🔹[[Journey notes sorting/Code/Checkpoint 2\|Checkpoint 2]]
 	
-- 🔹[[Checkpoint 3]]
+- 🔹[[Journey notes sorting/Code/Checkpoint 3\|Checkpoint 3]]
 	
-- 🔹[[Checkpoint 4]]
+- 🔹[[Journey notes sorting/Code/Checkpoint 4\|Checkpoint 4]]
 
-===
+</div>
+<div>
+
 ### Journal
-- 🔹[[A piece of mind]]
+- 🔹[[Journey notes sorting/Journal/A piece of mind\|A piece of mind]]
 	
-- 🔹[[Worries]]
+- 🔹[[Journey notes sorting/Journal/Worries\|Worries]]
 
-```
+</div>
+</div>
