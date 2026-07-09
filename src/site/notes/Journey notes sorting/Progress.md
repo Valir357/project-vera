@@ -18,7 +18,6 @@ number of columns: 2
 	
 - 🔹[[Journey notes sorting/Code/Checkpoint 4\|Checkpoint 4]]
 
-
 --- end-column ---
 
 ### Journal
