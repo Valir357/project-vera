@@ -7,7 +7,7 @@
 
 >	Navigations
  >About [[Main/Developer\|me]]
- >My [[https://www.twitch.tv/enverlopa\|Twitch channel]]
- >My Discord server: https://discord.gg/cwmV2QRXvF (permanent link)
+ >My Twitch channel: https://www.twitch.tv/enverlopa
+ >My Discord server: https://discord.gg/cwmV2QRXvF
  >Project's [[Main/Updates\|Updates]]
  >My [PC](Rig)
