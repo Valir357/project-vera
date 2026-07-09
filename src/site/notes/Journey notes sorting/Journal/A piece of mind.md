@@ -10,6 +10,6 @@ But even then, there is one kind of... "phobia" that I have. I am afraid of hurt
 And one more crucial thing: I started to see coding beyond its corporate uses and purposes. When I look beyond the colorless constructs and products, I see a method of expression, an art. This level of love and appreciation does not go well with my current, still-developing skill ceiling.
 
 	"All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you."
-																- Ira Glass, "The Gap"
+													- Ira Glass, "The Gap"
 
 But alas, this project is still a place of belonging I found in my moment of low; my way forward, and one of the few methods of expressing my compassion that hits truest. Intellectual, technical, theoretical, practical all the same.
