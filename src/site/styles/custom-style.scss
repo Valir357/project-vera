@@ -10,4 +10,12 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    .two-columns {
+        display: flex;
+        gap: 20px;
+    }
+    .two-columns > * {
+        flex: 1;
+        margin: 0;
+    }
 }
