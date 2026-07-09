@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journey-notes-sorting/progress/","dg-note-properties":{}}
 ---
 
+sasdasdasd
 :::columns
 ### Project Progress
 - 🔹[[Journey notes sorting/Code/Read me!\|Read me!]]
@@ -21,3 +22,4 @@
 	
 - 🔹[[Journey notes sorting/Journal/Worries\|Worries]]
 :::
+asdasdasdads
