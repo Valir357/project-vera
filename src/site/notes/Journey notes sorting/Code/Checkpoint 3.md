@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-3/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-3/","dg-note-properties":{}}
 ---
 
 ### 📅 July 3, 2026

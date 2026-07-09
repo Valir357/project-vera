@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/updates/"}
+{"dg-publish":true,"permalink":"/main/updates/","dg-note-properties":{}}
 ---
 
 July 13th, 2025, I had successfully whipped up two bots, a Twitch chat bot, and a Discord chatbot; both worked using the APIs and the bot calling method, hosted by OpenRouter.

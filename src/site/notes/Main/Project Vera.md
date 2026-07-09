@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/project-vera/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/main/project-vera/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ## Welcome, stranger.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-4/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-4/","dg-note-properties":{}}
 ---
 
 ### July 10, 2026

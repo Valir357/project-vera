@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/developer/"}
+{"dg-publish":true,"permalink":"/main/developer/","dg-note-properties":{}}
 ---
 
 Name: N.D "Valdor"

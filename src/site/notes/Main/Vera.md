@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/vera/"}
+{"dg-publish":true,"permalink":"/main/vera/","dg-note-properties":{}}
 ---
 
 # What is it?

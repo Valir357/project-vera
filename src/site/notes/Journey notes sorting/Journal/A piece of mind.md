@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/journal/a-piece-of-mind/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/journal/a-piece-of-mind/","dg-note-properties":{}}
 ---
 
 ## Dear code,

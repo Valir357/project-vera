@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-1/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-1/","dg-note-properties":{}}
 ---
 
 ### 📅 May ‎25, ‎2026

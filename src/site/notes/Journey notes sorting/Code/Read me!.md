@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/code/read-me/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/code/read-me/","dg-note-properties":{}}
 ---
 
 ## 📅 Speed up

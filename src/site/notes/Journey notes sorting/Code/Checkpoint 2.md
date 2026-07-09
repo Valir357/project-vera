@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-2/"}
+{"dg-publish":true,"permalink":"/journey-notes-sorting/code/checkpoint-2/","dg-note-properties":{}}
 ---
 
 ##### Let's get it started!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/rig/"}
+{"dg-publish":true,"permalink":"/main/rig/","dg-note-properties":{}}
 ---
 
 ## **July 2025**
