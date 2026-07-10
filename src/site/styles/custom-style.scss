@@ -24,14 +24,9 @@ body {
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 25%;
+        left: 40%;
         width: 2px;
-        background: linear-gradient(
-            to bottom,
-            transparent,
-            var(--background-modifier-border),
-            transparent
-        );
+        background: var(--background-modifier-border);
         transform: translateX(-50%);
     }
 }
