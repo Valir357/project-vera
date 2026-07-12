@@ -13,3 +13,9 @@ The original goal is for Vera to come to the Japanese people (read about [[Main/
 Of course, I keep a backup for the `edgetts` version around in case something breaks, as is the previous Checkpoints.
 
 --- 
+### July 12, 2026
+- 🔹Successfully (re)deployed Vera to the Discord platform in form of a chatbot registered through Discord Developer Website.
+	- 🔸Instead of replying to the terminal then speak the response, she now only texts to the Discord room.
+
+The next stage is to (re)deploy her to the Twitch platform, which forces myself to ask the golden question: `"If she makes it to the big screen, how will she interact with me and the audience?"`
+But for now... peace ✌
