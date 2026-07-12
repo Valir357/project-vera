@@ -25,5 +25,7 @@
 
 🔹[[Journey notes sorting/Journal/Worries\|Worries]]
 
+🔹[[Journey notes sorting/Journal/Fixations\|Fixations]]
+
 </div>
 </div>
