@@ -29,10 +29,8 @@ At first, I spent time gaming my heart out. But after a long period of thinking 
 So I picked up whatever bits of myself I could muster and build myself anew.
 I rearranged my entire room; went from a typical street rat hideout to a productive person. But that was only looks.
 I arranged sleep schedules, study cycles, and hit the gym as my schedule dictates.
-It was then that I stumbled upon my inspiration, [Vedal](https://www.twitch.tv/vedal987).
-"Interesting." I thought. "They're funny, let's find out more." And from here, I'll let my deeds do the talking.
 
-I did went to a tryout at the local MindX institution, mainly to see if I am really cut out for the codes. It turned out to be one of the most enthusiastic, for me, and drawn-out "tryout" sessions there, or so they told. And at the end of the session, an advice is given: I may not be a natural, but I have a heart for the codes.
+I did went to a tryout at the local MindX institution, mainly to see if I am really cut out for the codes. It turned out to be one of the most enthusiastic and drawn-out "tryout" sessions there, or so they told. And at the end of the session, an advice is given: I may not be a natural, but I have a heart for the codes.
 
 I do not for the praises nor wealth. I do because my soul and ambition says so. And because many other souls deserve to know such movements are possible.
 

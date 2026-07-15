@@ -17,6 +17,8 @@
 
 🔹[[Journey notes sorting/Code/Checkpoint 4\|Checkpoint 4]]
 
+🔹[[Journey notes sorting/Code/Checkpoint 5\|Checkpoint 5]]
+
 </div>
 <div>
 
@@ -25,7 +27,7 @@
 
 🔹[[Journey notes sorting/Journal/Worries\|Worries]]
 
-🔹[[Journey notes sorting/Journal/Fixations\|Fixations]]
+🔹[[Journey notes sorting/Journal/Soccer\|Soccer]]
 
 </div>
 </div>
