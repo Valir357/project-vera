@@ -16,8 +16,7 @@
 
 For boomers, this would be considered a "retro rig", but for me, it is a luxury.
 
-> And yes, with this rig, even QLoRA fine-tuning is impossible.
-   That is why I collected the datasets, refined them, stored and safekept them for future fine-tuning, when I have the adequate hardware.
+> And yes, with this rig, even QLoRA fine-tuning is impossible. That is why I collected the datasets, refined them, stored and safekept them for future fine-tuning, when I have the adequate hardware.
 
 ---
 ---
@@ -33,4 +32,4 @@ For boomers, this would be considered a "retro rig", but for me, it is a luxury.
 - CPU: Intel i5-4570 → Intel i5-4670K
 - Motherboard: GIGABYTE H81M-DS2 → GIGABYTE B85M-DS3H-A
 I also did a complete disassemble to reapply the paste of both the CPU and GPU.
-It was fun :D
+It was fun.
